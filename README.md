@@ -39,3 +39,15 @@ Completed as part of my diploma studies.
 
 Anastacia Mumbi
 Cybersecurity Graduate
+## Why This Project Matters
+
+Windows is one of the most widely used operating systems in homes and businesses. This checklist summarizes important security practices that help reduce common cyber risks such as malware infections, unauthorized access, and data loss.
+
+This project demonstrates my understanding of Windows security fundamentals and cybersecurity best practices.
+## Skills Demonstrated
+
+- Windows Security
+- Cybersecurity Fundamentals
+- Risk Assessment
+- Security Best Practices
+- Technical Documentation
